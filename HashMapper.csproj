@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <Reference Include="ArgParser">
-      <HintPath>..\ArgParser\bin\Release\net8.0\ArgParser.dll</HintPath>
+      <HintPath>..\ArgParseLib\bin\Release\net8.0\ArgParser.dll</HintPath>
     </Reference>
   </ItemGroup>
 
